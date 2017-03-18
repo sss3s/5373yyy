@@ -555,7 +555,7 @@ $(function() {
     // 20170314 sss3s追加 どの地域を選択したかわかりやすく
     //styleHTML += '#no-accordion{background-color:#f5f5f5; color:#005098; padding:25px 0px; font-size: 18pt;}';
     var arealabel = areaModels[row_index].label;
-    styleHTML += '#no-accordion{background-color:#fffdfd; color:#ff8282; padding:25px 0px; font-size: 18pt;}';
+    styleHTML += '#no-accordion{background-color:#ffffff; color:#ff8282; padding:25px 0px; font-size: 18pt;}';
     accordionHTML += '<div id="no-accordion"? align="center">' + arealabel.substr(2, arealabel.length - 2) + 'の収集日</div>';
 
 
